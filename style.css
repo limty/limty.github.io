@@ -1,5 +1,5 @@
 /*
-style.css
+style.css for limty.github.io
  */
 @import url("https://fonts.googleapis.com/css?family=Noto+Sans+SC:700|Roboto&display=swap");
 @import url("https://cdn.jsdelivr.net/npm/boxicons@2.0.4/css/boxicons.min.css");
@@ -94,3 +94,12 @@ footer {
   text-align: center;
   padding: 0.6rem 0;
 }
+/*
+Acknowledgements:
+
+FCC Personal Portfolio Page
+https://codepen.io/freeCodeCamp/full/zNBOYG
+
+Quackit - CSS Grid Card Examples: Default alignment (stretch)
+https://www.quackit.com/css/grid/examples/css_grid_card_examples.cfm
+ */
