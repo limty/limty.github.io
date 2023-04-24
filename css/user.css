@@ -1,0 +1,12 @@
+body {
+  position: relative;
+}
+
+.portfolio-box-border {
+  border-top: 0.5px solid gray;
+  border-right: 0.5px solid gray;
+}
+
+hr.divider.divider-masthead {
+  background-color: Aquamarine;
+}
