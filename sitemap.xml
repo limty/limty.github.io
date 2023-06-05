@@ -1,71 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
-    <url>
-        <loc>https://limty.cc/</loc>
-        <lastmod>2023-06-05T13:44:19+00:00</lastmod>
-        <priority>1.00</priority>
-    </url>
-    <url>
-        <loc>https://limty.cc/sites/demo-landing-page/</loc>
-        <lastmod>2023-06-05T12:59:07+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://limty.cc/sites/tribute-to-luigi-galvani/</loc>
-        <lastmod>2023-06-05T12:59:07+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://limty.cc/sites/technical-documentation-page/</loc>
-        <lastmod>2023-06-05T12:59:07+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://limty.cc/sites/demo-survey-form/</loc>
-        <lastmod>2023-06-05T12:59:07+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://limty.cc/sites/random-quotes/</loc>
-        <lastmod>2023-06-05T12:59:07+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://limty.cc/sites/notes-app/</loc>
-        <lastmod>2023-06-05T12:59:07+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://limty.cc/sites/25-plus-5-clock/</loc>
-        <lastmod>2023-06-05T12:59:07+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://limty.cc/sites/markdown-previewer/</loc>
-        <lastmod>2023-06-05T12:59:07+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://limty.cc/sites/drum-machine/</loc>
-        <lastmod>2023-06-05T12:59:07+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://limty.cc/snake/</loc>
-        <lastmod>2023-06-05T12:57:05+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://limty.cc/sites/js-calculator/</loc>
-        <lastmod>2023-06-05T12:59:07+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
+<url>
+  <loc>https://limty.cc/</loc>
+  <lastmod>2023-06-05T13:44:19+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://limty.cc/sites/demo-landing-page/</loc>
+  <lastmod>2023-06-05T12:59:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://limty.cc/sites/tribute-to-luigi-galvani/</loc>
+  <lastmod>2023-06-05T12:59:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://limty.cc/sites/technical-documentation-page/</loc>
+  <lastmod>2023-06-05T12:59:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://limty.cc/sites/demo-survey-form/</loc>
+  <lastmod>2023-06-05T12:59:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://limty.cc/sites/random-quotes/</loc>
+  <lastmod>2023-06-05T12:59:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://limty.cc/sites/notes-app/</loc>
+  <lastmod>2023-06-05T12:59:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://limty.cc/sites/25-plus-5-clock/</loc>
+  <lastmod>2023-06-05T12:59:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://limty.cc/sites/markdown-previewer/</loc>
+  <lastmod>2023-06-05T12:59:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://limty.cc/sites/drum-machine/</loc>
+  <lastmod>2023-06-05T12:59:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://limty.cc/snake/</loc>
+  <lastmod>2023-06-05T12:57:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://limty.cc/sites/js-calculator/</loc>
+  <lastmod>2023-06-05T12:59:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
 
 </urlset>
