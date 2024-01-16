@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Text and Image</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        img {
+            max-width: 40%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Survey</h2>
+        <h3>Technology: The Internet of Things (IoT) and the Internet of Everything (IoE)</h3>
+        <h3 id="current-date"></h3>
+        <h2>https://forms.gle/hr32Y9rxyxWs7u2z6</h2>
+        <img src="https://i.imgur.com/0TwFJrTm.png" alt="Centered Image">
+        <p id="current-date"></p>
+    </div>
+    <script>
+        // JavaScript code to display the current date
+        const currentDate = new Date();
+        const dateElement = document.getElementById("current-date");
+        dateElement.textContent = `${currentDate.toLocaleDateString()}`;
+    </script>
+</body>
+
+</html>
